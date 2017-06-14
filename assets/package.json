@@ -1,0 +1,25 @@
+{
+  "name": "tvipe.github.io",
+  "version": "1.0.0",
+  "description": "personal-webpage",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-imagemin": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TViPE/tvipe.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TViPE/tvipe.github.io/issues"
+  },
+  "homepage": "https://github.com/TViPE/tvipe.github.io#readme"
+}
