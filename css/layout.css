@@ -1,0 +1,85 @@
+
+#logoText {
+	font-family: 'Megrim', cursive;
+	font-size: 4.5em;
+	font-weight: bold;
+}
+
+.navbar {
+	margin-top: 20px;
+	margin
+}
+.navbar-nav{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav-item{
+	padding-left: 15px;
+	padding-right: 15px;
+	letter-spacing: 1px;
+}
+
+.nav-link:hover{
+	color: #172233;
+}
+
+.row {
+	margin-bottom: 25px;
+}
+
+.card {
+	border: none;
+}
+.card-text {
+	text-align: center;
+}
+
+i {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+footer a {
+	color :inherit;
+}
+
+/* typedJS */
+#typedSection {
+	height: 500px;
+	background-color: #758caf;
+	border-radius: 3px;
+}
+#typedSection p{
+	display: inline-block;
+	margin-top: 200px;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 3em;
+}
+
+#projectSection .card{
+	border: 4px solid black;
+	margin-bottom: 10px;
+}
+
+#projectSection .card-title{
+	color: #ed8210;
+}
+
+#contactSection {
+	width: 400px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #cecece;
+	border-radius: 5px;
+}
+#requireInfo {
+	margin-left: 100px;
+
+}
+
+
+
